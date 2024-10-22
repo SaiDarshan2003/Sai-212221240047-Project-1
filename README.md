@@ -11,19 +11,29 @@ The Hand Gesture Recognition System is designed to utilize advanced neural netwo
 ## Features
 
 Advanced Neural Network Implementation: Utilizes state-of-the-art deep learning architectures for accurate gesture classification.
+
 Real-time Gesture Recognition: Processes live video feed to recognize gestures instantly, enhancing user interaction.
+
 High Scalability: Designed to support multiple gestures, making it adaptable for various applications.
+
 Optimized Performance: Reduced time complexity ensures quick response and interaction, providing a smooth user experience.
+
 Customizable Output: Specific gesture recognition tailored for different applications, using JSON data format for easy integration.
 
 ## Requirements
 
 Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
+
 Development Environment: Python 3.6 or later is necessary for coding the hand gesture recognition system.
+
 Deep Learning Frameworks: TensorFlow for model training and Keras for neural network implementation.
+
 Image Processing Libraries: OpenCV is essential for efficient image processing and real-time gesture detection.
+
 Version Control: Implementation of Git for collaborative development and effective code management.
-IDE: Use of VSCode or PyCharm as the Integrated Development Environment for coding, debugging, and version control integration.
+
+IDE: Use of VSCode Or Google Colab.
+
 Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1 or later), TensorFlow GPU, and MediaPipe for enhanced gesture recognition.
 
 ## System Architecture
