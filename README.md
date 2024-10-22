@@ -57,9 +57,13 @@ This project serves as a foundation for future developments in gesture-based int
 ## Articles Published / References
 
 •Khan, A., Sohail, A., Zahoora, U., & Qureshi, A. S. (2018). Real-Time Hand Gesture Recognition Using Deep Learning Techniques. IEEE Access, 6, 38853-38859.
+
 •Li, Y., Tian, L., & Liu, X. (2019). Hand Pose Estimation via Deep Learning for Sign Language Recognition. Journal of Visual Communication and Image Representation, 61, 155-162.
+
 •Zhang, Z., Wu, Y., Lu, Z., & Zhang, S. (2020). Mediapipe Hands: On-device Real-time Hand Tracking and Gesture Recognition. Google Research.
+
 •Berrio, C., Arguello, J., & Meza, M. (2021). Gesture Recognition with a Convolutional Neural Network and Transfer Learning. Proceedings of the International Conference on Image Processing and Machine Learning, 48-56.
+
 •Zhang, Y., Wu, Y., Zhang, S., & Cheng, Y. (2019). A Survey on Hand Gesture Recognition Techniques. Journal of Computer Science and Technology, 34(5), 965-987. 
 
 
